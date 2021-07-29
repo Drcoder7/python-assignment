@@ -1,4 +1,4 @@
-int=123
-print(bin(int))
-print(oct(int))
-print(hex(int))
+a=123
+print(bin(a))
+print(oct(a))
+print(hex(a))
